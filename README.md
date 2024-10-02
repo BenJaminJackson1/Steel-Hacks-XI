@@ -1,2 +1,2 @@
 # Steel-Hacks-XI
-Project for Steel Hacks XI
+This was my first-ever hackathon! 
